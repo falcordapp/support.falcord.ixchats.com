@@ -7,17 +7,17 @@
   "previous_page": null,
   "articles": [
     {
-      "id": 000000000001,
+      "id": 1,
       "url": "https://support.falcord.ixchats.com/api/v2/help_center/en-us/articles/1.json",
       "html_url": "https://support.falcord.ixchats.com/article/1",
-      "author_id": 000000000001,
+      "author_id": 1,
       "comments_disabled": false,
       "draft": false,
       "promoted": false,
       "position": 0,
       "vote_sum": 0,
       "vote_count": 0,
-      "section_id": 000000000001,
+      "section_id": 1,
       "created_at": "2025-09-09T18:40:04.676Z",
       "updated_at": "2025-09-09T18:40:04.676Z",
       "name": "First support post, woo!",
@@ -31,7 +31,7 @@
       "permission_group_id": 1720952,
       "label_names": ["first-post", "non-important"],
       "body": "<p>Hello! Great news, support posts are now available! You can search and more... it may be useless, but it's another little part of Discord's old history that is implemented!</p>"
-    },
+    }
   ],
   "sort_by": "position",
   "sort_order": "asc"
