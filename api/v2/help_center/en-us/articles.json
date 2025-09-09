@@ -7,8 +7,8 @@
   "previous_page": null,
   "articles": [
     {
-      "id": 360041813192,
-      "url": "https://support.falcord.ixchats.com/api/v2/help_center/en-us/articles/360041813192-Alert-Delayed-Responses-from-our-Support-Team-due-to-COVID-19.json",
+      "id": 000000000001,
+      "url": "https://support.falcord.ixchats.com/api/v2/help_center/en-us/articles/1.json",
       "html_url": "https://support.falcord.ixchats.com/article/1",
       "author_id": 000000000001,
       "comments_disabled": false,
@@ -29,9 +29,7 @@
       "edited_at": "2020-04-13T21:48:52Z",
       "user_segment_id": null,
       "permission_group_id": 1720952,
-      "label_names": [
-        "first-post", "non-important"
-      ],
+      "label_names": ["first-post", "non-important"],
       "body": "<p>Hello! Great news, support posts are now available! You can search and more... it may be useless, but it's another little part of Discord's old history that is implemented!</p>"
     }
   ],
