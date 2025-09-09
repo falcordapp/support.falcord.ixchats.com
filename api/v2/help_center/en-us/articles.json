@@ -31,7 +31,7 @@
       "permission_group_id": 1720952,
       "label_names": ["first-post", "non-important"],
       "body": "<p>Hello! Great news, support posts are now available! You can search and more... it may be useless, but it's another little part of Discord's old history that is implemented!</p>"
-    }
+    },
   ],
   "sort_by": "position",
   "sort_order": "asc"
