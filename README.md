@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This repo is kind of useless as a Github page. I just realised that.
+
 # support.falcord.ixchats.com
 Support for Falcord.
 
